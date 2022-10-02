@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-02T02:04:53.609Z</updated>
+  <updated>2022-10-02T02:26:02.098Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>同时为github,gitlab,gitee添加ssh key</title>
+    <link href="http://example.com/2022/10/02/%E5%90%8C%E6%97%B6%E4%B8%BAgithub-gitlab-gitee%E6%B7%BB%E5%8A%A0ssh-key/"/>
+    <id>http://example.com/2022/10/02/%E5%90%8C%E6%97%B6%E4%B8%BAgithub-gitlab-gitee%E6%B7%BB%E5%8A%A0ssh-key/</id>
+    <published>2022-10-02T02:20:27.000Z</published>
+    <updated>2022-10-02T02:26:02.098Z</updated>
+    
+    
+    
+    
+    <category term="Git" scheme="http://example.com/categories/Git/"/>
+    
+    
+    <category term="Github" scheme="http://example.com/tags/Github/"/>
+    
+    <category term="Gitlab" scheme="http://example.com/tags/Gitlab/"/>
+    
+    <category term="Gitee" scheme="http://example.com/tags/Gitee/"/>
+    
+  </entry>
   
   <entry>
     <title>几个支持外链服务的图床网站</title>
